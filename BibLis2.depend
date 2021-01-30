@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1610277233 source:c:\users\bogdan\documents\github\biblis-complet\biblis\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"ListeDubluInlantuite.h"
+	"Coada.h"
+	"sLis.h"
+	"stiva.h"
+
+1610277016 c:\users\bogdan\documents\github\biblis-complet\biblis\listedubluinlantuite.h
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<unistd.h>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610178559 c:\users\bogdan\documents\github\biblis-complet\biblis\preferences.h
+
+1610277262 c:\users\bogdan\documents\github\biblis-complet\biblis\globalfunctions.h
+
+1610277316 c:\users\bogdan\documents\github\biblis-complet\biblis\coada.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+	<math.h>
+
+1610272008 c:\users\bogdan\documents\github\biblis-complet\biblis\slis.h
+	<iostream>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610272008 c:\users\bogdan\documents\github\biblis-complet\biblis\stiva.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610641883 source:f:\proiecte c++\proiect_ip\biblis-complet\biblis\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	"biblioteci/ListeDubluInlantuite.h"
+	"biblioteci/Coada.h"
+	"biblioteci/ListaSimpluInlantuita.h"
+	"biblioteci/Stiva.h"
+
+1610637073 f:\proiecte c++\proiect_ip\biblis-complet\biblis\listedubluinlantuite.h
+	<math.h>
+	<ctime>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610545763 f:\proiecte c++\proiect_ip\biblis-complet\biblis\preferences.h
+
+1610349291 f:\proiecte c++\proiect_ip\biblis-complet\biblis\globalfunctions.h
+
+1610545793 f:\proiecte c++\proiect_ip\biblis-complet\biblis\coada.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+	<math.h>
+
+1610545814 f:\proiecte c++\proiect_ip\biblis-complet\biblis\slis.h
+	<iostream>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610381262 f:\proiecte c++\proiect_ip\biblis-complet\biblis\stiva.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610642587 f:\proiecte c++\proiect_ip\biblis-complet\biblis\biblioteci\listedubluinlantuite.h
+	<math.h>
+	<ctime>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610545763 f:\proiecte c++\proiect_ip\biblis-complet\biblis\biblioteci\preferences.h
+
+1610349291 f:\proiecte c++\proiect_ip\biblis-complet\biblis\biblioteci\globalfunctions.h
+
+1610642622 f:\proiecte c++\proiect_ip\biblis-complet\biblis\biblioteci\coada.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+	<math.h>
+
+1610639779 f:\proiecte c++\proiect_ip\biblis-complet\biblis\biblioteci\slis.h
+	<iostream>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610642599 f:\proiecte c++\proiect_ip\biblis-complet\biblis\biblioteci\stiva.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610642641 f:\proiecte c++\proiect_ip\biblis-complet\biblis\biblioteci\listasimpluinlantuita.h
+	<iostream>
+	"Preferences.h"
+	"GlobalFunctions.h"
+

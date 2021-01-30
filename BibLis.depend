@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1609855684 source:c:\users\bogdan\documents\informatica\biblis\main.cpp
+	<iostream>
+	<graphics.h>
+	"ListeDubluInlantuite.h"
+	"Coada.h"
+
+1609855622 c:\users\bogdan\documents\informatica\biblis\listedubluinlantuite.h
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<unistd.h>
+	<stdlib.h>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1607526493 c:\users\bogdan\documents\informatica\biblis\exemplu.h
+
+1609753065 c:\users\bogdan\documents\informatica\biblis\preferences.h
+
+1609753092 c:\users\bogdan\documents\informatica\biblis\globalfunctions.h
+
+1609855659 c:\users\bogdan\documents\informatica\biblis\coada.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+	<math.h>
+
+1609948345 source:c:\users\bogdan\desktop\biblis\biblis-complet\biblis\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"ListeDubluInlantuite.h"
+	"Coada.h"
+	"sLis.h"
+	"stiva.h"
+
+1609864538 c:\users\bogdan\desktop\biblis\biblis-complet\biblis\listedubluinlantuite.h
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<unistd.h>
+	<stdlib.h>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1609864538 c:\users\bogdan\desktop\biblis\biblis-complet\biblis\preferences.h
+
+1609948287 c:\users\bogdan\desktop\biblis\biblis-complet\biblis\globalfunctions.h
+
+1609864538 c:\users\bogdan\desktop\biblis\biblis-complet\biblis\coada.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+	<math.h>
+
+1609948272 c:\users\bogdan\desktop\biblis\biblis-complet\biblis\slis.h
+	<iostream>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1609865104 c:\users\bogdan\desktop\biblis\biblis-complet\biblis\stiva.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610046107 source:c:\users\bogdan\documents\github\biblis-complet\biblis\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"ListeDubluInlantuite.h"
+	"Coada.h"
+	"sLis.h"
+	"stiva.h"
+
+1610046107 c:\users\bogdan\documents\github\biblis-complet\biblis\listedubluinlantuite.h
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<unistd.h>
+	<stdlib.h>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610046107 c:\users\bogdan\documents\github\biblis-complet\biblis\preferences.h
+
+1610046107 c:\users\bogdan\documents\github\biblis-complet\biblis\globalfunctions.h
+
+1610046107 c:\users\bogdan\documents\github\biblis-complet\biblis\coada.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+	<math.h>
+
+1610046107 c:\users\bogdan\documents\github\biblis-complet\biblis\slis.h
+	<iostream>
+	"Preferences.h"
+	"GlobalFunctions.h"
+
+1610046107 c:\users\bogdan\documents\github\biblis-complet\biblis\stiva.h
+	"Preferences.h"
+	"GlobalFunctions.h"
+

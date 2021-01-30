@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BibLis" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BibLis" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BibLis" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="biblioteci/Coada.h" />
+		<Unit filename="biblioteci/GlobalFunctions.h" />
+		<Unit filename="biblioteci/ListaSimpluInlantuita.h" />
+		<Unit filename="biblioteci/ListeDubluInlantuite.h" />
+		<Unit filename="biblioteci/Preferences.h" />
+		<Unit filename="biblioteci/Stiva.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="poze_meniuri/Load.jpg" />
+		<Unit filename="poze_meniuri/MeniuCoada.jpg" />
+		<Unit filename="poze_meniuri/MeniuLDI.jpg" />
+		<Unit filename="poze_meniuri/MeniuLSI.jpg" />
+		<Unit filename="poze_meniuri/MeniuStiva.jpg" />
+		<Unit filename="poze_meniuri/Save.jpg" />
+		<Unit filename="poze_meniuri/meniu.jpg" />
+		<Unit filename="salvari/saveCoada.bin" />
+		<Unit filename="salvari/saveLDI.bin" />
+		<Unit filename="salvari/saveLista.bin" />
+		<Unit filename="salvari/saveStiva.bin" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
